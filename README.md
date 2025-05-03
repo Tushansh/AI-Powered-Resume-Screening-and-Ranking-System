@@ -20,15 +20,7 @@ An intelligent resume screening and applicant evaluation web app built with **Ma
 ## 🚀 Demo
 
 Deploy the app instantly with **Streamlit Cloud**:  
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/your-streamlit-link)
-
----
-
-## 📸 Screenshots
-
-| Home Page | Result Panel |
-|-----------|--------------|
-| ![Home](screenshots/home.png) | ![Result](screenshots/result.png) |
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-powered-resume-screening-project.streamlit.app/)
 
 ---
 
@@ -103,13 +95,7 @@ Contributions are welcome! Please fork the repo and submit a pull request. For m
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 ## 👤 Author
 
-**[Your Name]**  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername)
+**Tushansh Bajaj**  
+🔗 [LinkedIn](https://www.linkedin.com/in/tushansh-bajaj-393169309/)
